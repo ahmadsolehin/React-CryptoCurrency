@@ -1,4 +1,4 @@
-# React CryptoCurrency Tutorial
+# React CryptoCurrency 
 
 This project uses the free [CryptoCompare API](http://cryptocompare.com/api) service.
 
